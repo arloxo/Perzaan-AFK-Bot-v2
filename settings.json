@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "banggers.aternos.me:",
+    "ip": "banggers.aternos.me",
     "port": 20206,
     "version": "1.21.1"
   },
